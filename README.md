@@ -26,13 +26,13 @@
     <a href="https://www.instagram.com/sandrd_djg/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://www.tiktok.com/@TU_USUARIO" target="_blank">
+    <a href="https://www.tiktok.com/@yoto0872" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
     </a>
-    <a href="https://wa.me/51XXXXXXXXX" target="_blank">
+    <a href="https://wa.me/+51902743580" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="mailto:TU_CORREO@gmail.com">
+    <a href="mailto:sandroyoto@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="#-englobor">
