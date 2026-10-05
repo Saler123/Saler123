@@ -11,7 +11,7 @@
   <!-- ANIMACIÓN DE ESCRITURA -->
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=780&height=50&lines=%E2%9A%A1%20Ingenier%C3%ADa%20de%20Sistemas%20%7C%20Per%C3%BA%20%F0%9F%87%B5%F0%9F%87%AA;%F0%9F%92%BB%20Full-Stack%3A%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20APIs%20REST;%F0%9F%A4%96%20IA%20%26%20Automatizaci%C3%B3n%20con%20OpenAI%20%2B%20n8n;%F0%9F%94%8C%20IoT%20%26%20Sistemas%20Embebidos%20con%20ESP32;%F0%9F%8C%90%20Redes%20%E2%80%A2%20VLAN%20%E2%80%A2%20Infraestructura%20TI%20%E2%80%A2%20CCTV;%F0%9F%9A%80%20Construyendo%20ENGLOBOR" alt="Typing Animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=780&height=50&lines=%E2%9A%A1%20Ingenier%C3%ADa%20de%20Sistemas%20%7C%20Per%C3%BA%20%F0%9F%87%B5%F0%9F%87%AA;%F0%9F%92%BB%20Full-Stack%3A%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20APIs%20REST;%F0%9F%A4%96%20IA%20%26%20Automatizaci%C3%B3n%20con%20OpenAI%20%2B%20n8n;%F0%9F%94%8C%20IoT%20%26%20Sistemas%20Embebidos%20con%20ESP32;%F0%9F%8C%90%20Redes%20%E2%80%A2%20VLAN%20%E2%80%A2%20Infraestructura%20TI%20%E2%80%A2%20CCTV;%F0%9F%9A%80%20Construyendo%20ENGLOBOR;%F0%9F%A7%A0%20AI-Powered%20Developer%3A%20ChatGPT%20%E2%80%A2%20Gemini%20%E2%80%A2%20Claude%20%E2%80%A2%20OpenCode" alt="Typing Animation" />
     </a>
   </div>
 
@@ -53,6 +53,8 @@ yoto@sistemas-core:~$ ./diagnostico.sh --modo=completo
 >> UBICACIÓN      : Perú 🇵🇪
 >> FORMACIÓN      : Estudiante de Ingeniería de Sistemas
 >> ROLES          : Dev Full-Stack | Soporte & Infraestructura TI | Redes | IoT Maker
+>> MODO           : 🧠 AI-Powered Developer
+>> COPILOTOS IA   : ChatGPT • Gemini • Claude • OpenCode
 >> MOTOR IA       : OpenAI API + n8n + Agentes de IA + Procesamiento de voz
 >> STACK          : TypeScript • PHP/Laravel • Java • Python • C/C++ • React • ESP32
 >> DATOS          : MySQL • SQL Server • PostgreSQL • Docker • Power BI
@@ -183,6 +185,30 @@ flowchart LR
 * **Software**: VS Code, Arduino IDE, PlatformIO, Postman, Microsoft Visio, Cisco Packet Tracer.
 
 </details>
+
+---
+
+### 🧠 AI-Powered Developer
+
+> *"La creatividad humana potenciada por la inteligencia artificial."*
+
+Uso asistentes de IA como copilotos en mi día a día para **programar más rápido, depurar, diseñar arquitecturas, documentar y aprender** nuevas tecnologías — siempre entendiendo y validando el código que construyo.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logo=gnubash&logoColor=00F5D4" alt="OpenCode" />
+
+</div>
+
+| Herramienta | Cómo la uso |
+| :--- | :--- |
+| 💬 **ChatGPT** | Lluvia de ideas, explicaciones, prompts y prototipos rápidos |
+| ✨ **Gemini** | Investigación, análisis de documentos y apoyo multimodal |
+| 🧡 **Claude** | Desarrollo de código, refactorización y proyectos completos |
+| ⌨️ **OpenCode** | Agente de programación en terminal para automatizar tareas de desarrollo |
 
 ---
 
