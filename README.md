@@ -54,7 +54,8 @@ yoto@sistemas-core:~$ ./diagnostico.sh --modo=completo
 >> FORMACIÓN      : Estudiante de Ingeniería de Sistemas
 >> ROLES          : Dev Full-Stack | Soporte & Infraestructura TI | Redes | IoT Maker
 >> MOTOR IA       : OpenAI API + n8n + Agentes de IA + Procesamiento de voz
->> STACK          : Java • Python • PHP • JavaScript • Laravel • React • MySQL • ESP32
+>> STACK          : TypeScript • PHP/Laravel • Java • Python • C/C++ • React • ESP32
+>> DATOS          : MySQL • SQL Server • PostgreSQL • Docker • Power BI
 >> RED            : TCP/IP • LAN/WAN • VLAN • Switching • Wi-Fi • CCTV
 >> PROYECTO       : ENGLOBOR — seguridad, tecnología, automatización e IA
 >> ESTADO         : 🟢 Disponible para proyectos, colaboraciones y oportunidades
@@ -190,7 +191,7 @@ flowchart LR
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,php,mysql,laravel,react,html,css,tailwind,arduino,linux,git,github,vscode,postman&theme=dark&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,laravel,react,html,css,tailwind,mysql,postgres,docker,arduino,linux,git,github,vscode,postman&theme=dark&perline=11" alt="Tech Stack" />
   </a>
 
   <br><br>
@@ -201,6 +202,10 @@ flowchart LR
     <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
     <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
     <img src="https://img.shields.io/badge/APIs%20REST-0EA5E9?style=flat-square&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubiquiti%20UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white"/>
@@ -229,8 +234,12 @@ flowchart LR
 
 <div align="center">
 
+  <!-- Calculado sobre TODOS los repos (incluye privados): python scripts/lenguajes.py -->
+  <img src="./assets/lenguajes.svg" width="600" alt="Lenguajes más usados" />
+
+  <br><br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=Saler123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=D91023&locale=es" height="165" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saler123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&locale=es" height="165" alt="Lenguajes" />
 
   <br>
 
