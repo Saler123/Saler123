@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="100%" height="100">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#05050d"/>
+      <stop offset="50%" stop-color="#0b1424"/>
+      <stop offset="100%" stop-color="#1a0d24"/>
+    </linearGradient>
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#D91023" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="neonBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D91023"/>
+      <stop offset="50%" stop-color="#00F5D4"/>
+      <stop offset="100%" stop-color="#D91023"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="100" rx="12" fill="url(#footerBg)"/>
+  <path fill="url(#footerWave)" d="M 0,40 Q 300,10 600,40 T 1200,30 L 1200,100 L 0,100 Z"/>
+  <rect x="0" y="96" width="1200" height="4" fill="url(#neonBar)"/>
+
+  <text x="600" y="60" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#ffffff" text-anchor="middle" opacity="0.95">
+    💡 "Aprendiendo, construyendo y resolviendo problemas reales con tecnología." 🇵🇪
+  </text>
+</svg>
