@@ -2,7 +2,7 @@
 
   <!-- CONTADOR DE VISITAS -->
   <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=Saler123&style=flat-square&color=00F5D4&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Saler123.Saler123&left_color=%23111827&right_color=%2300F5D4&left_text=VISITAS%20AL%20PERFIL" alt="Visitas al perfil" />
   </p>
 
   <!-- BANNER ANIMADO -->
@@ -269,7 +269,8 @@ Uso asistentes de IA como copilotos en mi día a día para **programar más ráp
 
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saler123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=D91023&point=38BDF8" width="95%" alt="Gráfico de actividad" />
+  <!-- Se actualiza solo cada día con .github/workflows/actividad.yml -->
+  <img src="./assets/actividad.svg" width="95%" alt="Gráfico de actividad" />
 
 </div>
 
